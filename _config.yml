@@ -1,3 +1,2 @@
-url: http://cskeeters.github.com/blog/
-permalink: /blog/:year/:month/:day/:title.html
+baseurl: /blog
 pygments: true
